@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.mat-flex{ display: flex;}
+.mat-justify-between{ justify-content: space-between;}
+.m-auto{ margin: auto;}
+.mat-py-0 { padding-top: 0!important; padding-bottom: 0!important; }
+.mat-px-0 { padding-left: 0!important; padding-right: 0!important; }
+.mat-divider { margin: 0 0 20px!important; }
+.example-card { background: #e7e7e7!important;}
+.mx-2 { margin: 0 20px !important;}
+.is-invalid { color: red !important;}
