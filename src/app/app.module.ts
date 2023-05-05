@@ -38,7 +38,7 @@ import { EmailValidatorDirective } from '../app/mat-blogs/email-validator.direct
     FormsModule,
     ReactiveFormsModule
   ],
-  providers: [],
+  providers: [ ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
